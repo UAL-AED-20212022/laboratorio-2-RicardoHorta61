@@ -72,9 +72,8 @@ def EUE(lista_ligada):
     print(f"O país {numero_eliminado} foi eliminado da lista.")
 
 def EPE(lista_ligada):
-    lista_ligada.reverse_linkedlist()
-    numero_eliminado = lista_ligada.get_last_node()
-    lista_ligada.delete_at_end()
+    numero_eliminado = lista_ligada.start_node.item
+    lista_ligada.delete_at_start()
     print(f"O país {numero_eliminado} foi eliminado da lista.")
 
 def EP(lista_ligada, comandos):
