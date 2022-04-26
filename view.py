@@ -15,7 +15,7 @@ def main():
         if comandos[0] == "RPDE":
             RPDE(lista_ligada, comandos)
         if comandos[0] == "RPAE":
-            RPAE(lista_ligada, comandos[1], comandos[2])
+            RPAE(lista_ligada, comandos[2], comandos[1])
         if comandos[0] == "RPII":
             RPII(lista_ligada, comandos)
         if comandos[0] == "VNE":
@@ -61,7 +61,6 @@ def VNE(lista_ligada):
 
 def VP(lista_ligada, comandos):
     nome_pais = comandos[1]
-    lista_ligada.search_item(nome_pais)
     if lista_ligada.search_item(nome_pais) == False:
         print(f"O país {nome_pais} não se encontra na lista")
     else:

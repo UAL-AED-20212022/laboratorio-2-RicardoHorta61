@@ -159,7 +159,7 @@ class LinkedList:
         self.start_node = prev
     
     def get_last_node(self): 
-        #retorna o Ãºltimo elemento da lista
+        #retorna o ultimo elemento da lista
         n = 1
         temp = self.start_node
         length = 0
