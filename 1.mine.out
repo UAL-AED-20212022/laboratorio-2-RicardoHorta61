@@ -1,0 +1,61 @@
+Argentina  
+Chile  
+Argentina  
+Chile  
+Argentina  
+Portugal  
+Chile  
+Argentina  
+Portugal  
+Espanha  
+O número de elementos são 4.
+<Node.Node object at 0x00000149496ED9C0>
+Chile  
+Argentina  
+Portugal  
+Espanha  
+Franca  
+<Node.Node object at 0x00000149496ED9C0>
+Chile  
+Argentina  
+Portugal  
+Italia  
+Espanha  
+Franca  
+<Node.Node object at 0x00000149496ED9C0>
+item not in the list
+Chile  
+Argentina  
+Portugal  
+Italia  
+Espanha  
+Franca  
+Chile  
+Japao  
+Argentina  
+Portugal  
+Italia  
+Espanha  
+Franca  
+Chile  
+Japao  
+Angola  
+Argentina  
+Portugal  
+Italia  
+Espanha  
+Franca  
+O número de elementos são 8.
+Item found
+Item found
+O país Portugal encontra-se na lista.
+item not found
+item not found
+O país Alemanha não se encontra na lista
+O país Chile foi eliminado da lista.
+O número de elementos são 7.
+O país Japao foi eliminado da lista.
+O número de elementos são 6.
+item not found
+O país Chile não se encontra na lista.
+O número de elementos são 6.
